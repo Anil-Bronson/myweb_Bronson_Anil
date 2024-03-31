@@ -42,7 +42,7 @@ function editUserInfo() {
  }
 
  function saveUserInfo() {
-    //enter code here
+    //enter code herez  
 
     userName = document.getElementById('nameInput').value;       //get the value of the field with id="nameInput"
     userSchool = document.getElementById('schoolInput').value;     //get the value of the field with id="schoolInput"
